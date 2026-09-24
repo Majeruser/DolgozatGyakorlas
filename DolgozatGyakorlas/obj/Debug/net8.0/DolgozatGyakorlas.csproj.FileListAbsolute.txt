@@ -1,0 +1,14 @@
+C:\Users\Majer.Marton\source\repos\DolgozatGyakorlas\DolgozatGyakorlas\bin\Debug\net8.0\DolgozatGyakorlas.exe
+C:\Users\Majer.Marton\source\repos\DolgozatGyakorlas\DolgozatGyakorlas\bin\Debug\net8.0\DolgozatGyakorlas.deps.json
+C:\Users\Majer.Marton\source\repos\DolgozatGyakorlas\DolgozatGyakorlas\bin\Debug\net8.0\DolgozatGyakorlas.runtimeconfig.json
+C:\Users\Majer.Marton\source\repos\DolgozatGyakorlas\DolgozatGyakorlas\bin\Debug\net8.0\DolgozatGyakorlas.dll
+C:\Users\Majer.Marton\source\repos\DolgozatGyakorlas\DolgozatGyakorlas\bin\Debug\net8.0\DolgozatGyakorlas.pdb
+C:\Users\Majer.Marton\source\repos\DolgozatGyakorlas\DolgozatGyakorlas\obj\Debug\net8.0\DolgozatGyakorlas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Majer.Marton\source\repos\DolgozatGyakorlas\DolgozatGyakorlas\obj\Debug\net8.0\DolgozatGyakorlas.AssemblyInfoInputs.cache
+C:\Users\Majer.Marton\source\repos\DolgozatGyakorlas\DolgozatGyakorlas\obj\Debug\net8.0\DolgozatGyakorlas.AssemblyInfo.cs
+C:\Users\Majer.Marton\source\repos\DolgozatGyakorlas\DolgozatGyakorlas\obj\Debug\net8.0\DolgozatGyakorlas.csproj.CoreCompileInputs.cache
+C:\Users\Majer.Marton\source\repos\DolgozatGyakorlas\DolgozatGyakorlas\obj\Debug\net8.0\DolgozatGyakorlas.dll
+C:\Users\Majer.Marton\source\repos\DolgozatGyakorlas\DolgozatGyakorlas\obj\Debug\net8.0\refint\DolgozatGyakorlas.dll
+C:\Users\Majer.Marton\source\repos\DolgozatGyakorlas\DolgozatGyakorlas\obj\Debug\net8.0\DolgozatGyakorlas.pdb
+C:\Users\Majer.Marton\source\repos\DolgozatGyakorlas\DolgozatGyakorlas\obj\Debug\net8.0\DolgozatGyakorlas.genruntimeconfig.cache
+C:\Users\Majer.Marton\source\repos\DolgozatGyakorlas\DolgozatGyakorlas\obj\Debug\net8.0\ref\DolgozatGyakorlas.dll
